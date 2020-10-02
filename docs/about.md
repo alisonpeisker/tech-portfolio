@@ -3,6 +3,9 @@ id: about
 title: About
 ---
 
+I am Alison Peisker, a graduate student at Michigan State University.
+I like challenging problems and knitting.
+
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
@@ -23,7 +26,7 @@ Grace Hopper Celebration Attendee
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- National Science Foundation Graduate Research Fellow
 
 ## Social Media
 
